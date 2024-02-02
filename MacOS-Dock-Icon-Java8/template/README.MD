@@ -6,3 +6,6 @@
 
 ## How to use
 Open the shadow in your [image editing software](https://www.photopea.com) then place your background and logo on top in a group, use the mask on that group (make sure that the mask is centered in the frame correctly) then export it as a png.
+
+[mask.png](https://raw.githubusercontent.com/GlassMods/MinecraftSnippets/main/MacOS-Dock-Icon-Java8/template/mask.png)
+[shadow.png](https://raw.githubusercontent.com/GlassMods/MinecraftSnippets/main/MacOS-Dock-Icon-Java8/template/shadow.png)
