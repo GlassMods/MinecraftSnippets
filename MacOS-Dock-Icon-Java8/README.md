@@ -25,7 +25,7 @@ I would love if you were to credit if you use it however you dont have to.
     @Inject(method = "setWindowIcon", at = @At("HEAD"), cancellable = true)
     private void setGameIcon(CallbackInfo c) {
         if(Util.getOSType() == Util.EnumOS.OSX) {
-            MacOSUtils.setDockIcon();
+            MacOSUtils.setDockIcon("/assets/minecraft/modid/icon/iconname.png");
             c.cancel();
         } else {
             // windows impl
